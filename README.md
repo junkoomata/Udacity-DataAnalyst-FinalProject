@@ -33,49 +33,87 @@ It could mean islanders are doing better for having smaller government... to act
 
 ### highest 20 location of people_fully_vaccinated_per_hundred average
 ### location
-Gibraltar 80.185227 /n
-Pitcairn 80.143333 /n
-United Arab Emirates 71.197639 /n
-China 65.986667 /n
-Jersey 53.360870 /n
-Cayman Islands 52.687262 /n
-Israel 49.993897 /n
-Aruba 49.608776/n
-Falkland Islands 49.490000/n
-San Marino 48.625976/n
-Nauru 48.412000/n
-Anguilla 48.134211/n
-Qatar 47.958400/n
-Mongolia 47.952279/n
-Turks and Caicos Islands 47.650833/n
-Singapore 47.325663/n
-Bhutan 46.232727/n
-Uruguay 44.956543/n
-Bahrain 44.924502/n
-Bermuda 44.699091/n
+Gibraltar 80.185227
+
+Pitcairn 80.143333
+
+United Arab Emirates 71.197639
+
+China 65.986667
+
+Jersey 53.360870 
+
+Cayman Islands 52.687262
+
+Israel 49.993897
+
+Aruba 49.608776
+
+Falkland Islands 49.490000
+
+San Marino 48.625976
+
+Nauru 48.412000
+
+Anguilla 48.134211
+
+Qatar 47.958400
+
+Mongolia 47.952279
+
+Turks and Caicos Islands 47.650833
+
+Singapore 47.325663
+
+Bhutan 46.232727
+
+Uruguay 44.956543
+
+Bahrain 44.924502
+
+Bermuda 44.699091
 
 ### new_cases_per_million total_deaths_per_million
 ### location
-Gibraltar NaN NaN /n
-Pitcairn NaN NaN/n
-United Arab Emirates 191.796380 157.066859/n
-China 0.023127 3.209920/n
-Jersey NaN NaN/n
-Cayman Islands NaN NaN/n
-Israel 357.326779 698.838507/n
-Aruba NaN NaN/n
-Falkland Islands NaN NaN/n
-San Marino 330.998112 2455.267076/n
-Nauru NaN NaN/n
-Anguilla NaN NaN/n
-Qatar 115.079333 154.344978/n
-Mongolia 338.624620 115.461007/n
-Turks and Caicos Islands NaN NaN/n
-Singapore 27.799946 6.345428/n
-Bhutan 9.003370 1.920814/n
-Uruguay 384.723188 963.841467/n
-Bahrain 378.343786 512.426710/n
-Bermuda NaN NaN/n
+Gibraltar NaN NaN 
+
+Pitcairn NaN NaN
+
+United Arab Emirates 191.796380 157.066859
+
+China 0.023127 3.209920
+
+Jersey NaN NaN
+
+Cayman Islands NaN NaN
+
+Israel 357.326779 698.838507
+
+Aruba NaN NaN
+
+Falkland Islands NaN NaN
+
+San Marino 330.998112 2455.267076
+
+Nauru NaN NaN
+
+Anguilla NaN NaN
+
+Qatar 115.079333 154.344978
+
+Mongolia 338.624620 115.461007
+
+Turks and Caicos Islands NaN NaN
+
+Singapore 27.799946 6.345428
+
+Bhutan 9.003370 1.920814
+
+Uruguay 384.723188 963.841467
+
+Bahrain 378.343786 512.426710
+
+Bermuda NaN NaN
 
 San Marino's total_deaths_per_million is high despite of vaccination rate, so, not all that simple as political decision making issue
 
